@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Full Stack Project
 
 ## Overview
@@ -136,3 +137,6 @@ A: Build the backend JAR and deploy to a server. For frontend, run `npm run buil
 - Write unit and integration tests for backend and frontend.
 - Use version control (Git) for all changes.
 - Document new features and changes in the README.
+=======
+# E-commerce-application
+>>>>>>> 1c9a60822aaaf1359732f1235c4595e0c6cdc5a0
